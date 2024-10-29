@@ -1,6 +1,6 @@
-# Zugangs-Check für CSD Kurs 03.06.2024
+# Zugangs-Check für CSD Kurs 05.11.2024
  
-Hallo liebe angehende CSD-ler! Da wir in unserem Training vom 03. & 04.06. GitHub für die Zusammenarbeit verwenden werden, dient dieses Repository dazu sicherzustellen, dass ihr alle in der Lage seid zu pushen.
+Hallo liebe angehende CSD-ler! Da wir in unserem Training vom 05.-07.11. GitHub für die Zusammenarbeit verwenden werden, dient dieses Repository dazu sicherzustellen, dass ihr alle in der Lage seid zu pushen.
  
 ## Was kannst du tun, um dich vorzubereiten?
 
